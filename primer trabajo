@@ -1,0 +1,5 @@
+$ git init
+$ git add .
+$ git commit -m 'mi primer commit'
+$ git remote add origin https://github.com/komplvtvm/NVL-JS.git
+$ git push -u origin master
